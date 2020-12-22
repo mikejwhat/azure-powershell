@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 3.1.1
 * Enabled softdelete feature for SQL.
 * Fixing SQL AG restore, removing the container name check.
 * Changed container name format for Azure Files backup item.
